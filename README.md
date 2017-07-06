@@ -1,5 +1,5 @@
 
-**System Detail**//
+##Call API to pull the information##
 
 **Client Side**
 * Displays movie information made available from OMDB.
